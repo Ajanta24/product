@@ -10,6 +10,7 @@ public class ProductVo {
 		private int productId;
 		//@NotNull
 		private String productName;
+	private String productCityName;
 		public ProductVo() {
 			super();
 		}
